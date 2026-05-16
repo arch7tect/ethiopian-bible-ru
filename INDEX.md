@@ -9,6 +9,14 @@
 
 ## Неканонические книги
 
+### 1 Климента
+
+- [1 Климента — стр. 1045–1048](books/noncanonical/clement-i-ru-part-01.md)
+- [1 Климента — стр. 1049–1052](books/noncanonical/clement-i-ru-part-02.md)
+- [1 Климента — стр. 1053–1056](books/noncanonical/clement-i-ru-part-03.md)
+- [1 Климента — стр. 1057–1060](books/noncanonical/clement-i-ru-part-04.md)
+- [1 Климента — стр. 1061–1063](books/noncanonical/clement-i-ru-part-05.md)
+
 ### Енох I
 
 - [Енох I — стр. 1078–1081](books/noncanonical/enoch-i-ru-part-01.md)

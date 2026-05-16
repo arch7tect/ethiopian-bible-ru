@@ -97,7 +97,12 @@
 - 2 Иоанна — стр. 1043
 - 3 Иоанна — стр. 1043
 - Иуда — стр. 1044
-- 1 Климента — стр. 1045
+- [1 Климента — стр. 1045](books/noncanonical/clement-i-ru-part-01.md)
+  - [часть 01 — стр. 1045–1048](books/noncanonical/clement-i-ru-part-01.md)
+  - [часть 02 — стр. 1049–1052](books/noncanonical/clement-i-ru-part-02.md)
+  - [часть 03 — стр. 1053–1056](books/noncanonical/clement-i-ru-part-03.md)
+  - [часть 04 — стр. 1057–1060](books/noncanonical/clement-i-ru-part-04.md)
+  - [часть 05 — стр. 1061–1063](books/noncanonical/clement-i-ru-part-05.md)
 - Апокалиптическая книга — стр. 1064
 - Откровение — стр. 1064
 - Енох I — стр. 1078
