@@ -25,21 +25,6 @@
 - [Енох I — стр. 1118–1121](books/noncanonical/enoch-i-ru-part-11.md)
 - [Енох I — стр. 1122–1126](books/noncanonical/enoch-i-ru-part-12.md)
 
-**Исходные фрагменты Еноха I**
-
-- [enoch-i-source.md](books/noncanonical/enoch-i-source.md)
-- [enoch-i-source-part-02.md](books/noncanonical/enoch-i-source-part-02.md)
-- [enoch-i-source-part-03.md](books/noncanonical/enoch-i-source-part-03.md)
-- [enoch-i-source-part-04.md](books/noncanonical/enoch-i-source-part-04.md)
-- [enoch-i-source-part-05.md](books/noncanonical/enoch-i-source-part-05.md)
-- [enoch-i-source-part-06.md](books/noncanonical/enoch-i-source-part-06.md)
-- [enoch-i-source-part-07.md](books/noncanonical/enoch-i-source-part-07.md)
-- [enoch-i-source-part-08.md](books/noncanonical/enoch-i-source-part-08.md)
-- [enoch-i-source-part-09.md](books/noncanonical/enoch-i-source-part-09.md)
-- [enoch-i-source-part-10.md](books/noncanonical/enoch-i-source-part-10.md)
-- [enoch-i-source-part-11.md](books/noncanonical/enoch-i-source-part-11.md)
-- [enoch-i-source-part-12.md](books/noncanonical/enoch-i-source-part-12.md)
-
 ### Енох II
 
 - [Индекс Еноха II](books/noncanonical/enoch-ii-index.md)
@@ -47,16 +32,3 @@
 - [Енох II — стр. 1131–1134](books/noncanonical/enoch-ii-ru-part-02.md)
 - [Енох II — стр. 1135–1138](books/noncanonical/enoch-ii-ru-part-03.md)
 - [Енох II — стр. 1139–1142](books/noncanonical/enoch-ii-ru-part-04.md)
-
-**Исходные фрагменты Еноха II**
-
-- [enoch-ii-source-part-01.md](books/noncanonical/enoch-ii-source-part-01.md)
-- [enoch-ii-source-part-02.md](books/noncanonical/enoch-ii-source-part-02.md)
-- [enoch-ii-source-part-03.md](books/noncanonical/enoch-ii-source-part-03.md)
-- [enoch-ii-source-part-04.md](books/noncanonical/enoch-ii-source-part-04.md)
-
-## Статус
-
-- Енох I — переведён полностью
-- Енох II — переведён полностью
-- Следующие по плану: Юбилеи, Мекабьян I–III, 1 Климента
