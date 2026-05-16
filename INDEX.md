@@ -17,6 +17,10 @@
 - [1 Климента — стр. 1057–1060](books/noncanonical/clement-i-ru-part-04.md)
 - [1 Климента — стр. 1061–1063](books/noncanonical/clement-i-ru-part-05.md)
 
+### Молитва Манассии
+
+- [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
+
 ### Енох I
 
 - [Енох I — стр. 1078–1081](books/noncanonical/enoch-i-ru-part-01.md)

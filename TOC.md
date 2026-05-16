@@ -164,7 +164,8 @@
   - [часть 02 — стр. 1264–1267](books/noncanonical/meqabyan-iii-ru-part-02.md)
   - [часть 03 — стр. 1268–1269](books/noncanonical/meqabyan-iii-ru-part-03.md)
 - Молитвенные книги — стр. 1270
-- Молитва Манассии — стр. 1270
+- [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
+  - [часть 01 — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
 - Заключение — стр. 1271
 
 ## Файлы
