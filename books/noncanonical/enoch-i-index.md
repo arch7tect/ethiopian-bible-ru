@@ -13,8 +13,10 @@
 - `enoch-i-ru-part-05.md` — стр. 1094–1097
 - `enoch-i-ru-part-06.md` — стр. 1098–1101
 - `enoch-i-ru-part-07.md` — стр. 1102–1105
+- `enoch-i-ru-part-08.md` — стр. 1106–1109
 - `enoch-i-ru-part-06.md` — стр. 1098–1101
 - `enoch-i-ru-part-07.md` — стр. 1102–1105
+- `enoch-i-ru-part-08.md` — стр. 1106–1109
 
 ## Исходные фрагменты
 
@@ -25,10 +27,12 @@
 - `enoch-i-source-part-05.md` — стр. 1094–1097
 - `enoch-i-source-part-06.md` — стр. 1098–1101
 - `enoch-i-source-part-07.md` — стр. 1102–1105
+- `enoch-i-source-part-08.md` — стр. 1106–1109
 - `enoch-i-source-part-06.md` — стр. 1098–1101
 - `enoch-i-source-part-07.md` — стр. 1102–1105
+- `enoch-i-source-part-08.md` — стр. 1106–1109
 
 ## Статус
 
-- Переведено: стр. 1078–1105
-- Осталось перевести: стр. 1106–1126
+- Переведено: стр. 1078–1109
+- Осталось перевести: стр. 1110–1126
