@@ -65,3 +65,12 @@
 - [Мекабьян I — стр. 1231–1234](books/noncanonical/meqabyan-i-ru-part-07.md)
 - [Мекабьян I — стр. 1235–1238](books/noncanonical/meqabyan-i-ru-part-08.md)
 - [Мекабьян I — стр. 1239–1240](books/noncanonical/meqabyan-i-ru-part-09.md)
+
+### Мекабьян II
+
+- [Индекс Мекабьян II](books/noncanonical/meqabyan-ii-index.md)
+- [Мекабьян II — стр. 1241–1244](books/noncanonical/meqabyan-ii-ru-part-01.md)
+- [Мекабьян II — стр. 1245–1248](books/noncanonical/meqabyan-ii-ru-part-02.md)
+- [Мекабьян II — стр. 1249–1252](books/noncanonical/meqabyan-ii-ru-part-03.md)
+- [Мекабьян II — стр. 1253–1256](books/noncanonical/meqabyan-ii-ru-part-04.md)
+- [Мекабьян II — стр. 1257–1259](books/noncanonical/meqabyan-ii-ru-part-05.md)

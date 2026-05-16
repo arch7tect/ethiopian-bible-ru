@@ -148,7 +148,12 @@
   - [часть 07 — стр. 1231–1234](books/noncanonical/meqabyan-i-ru-part-07.md)
   - [часть 08 — стр. 1235–1238](books/noncanonical/meqabyan-i-ru-part-08.md)
   - [часть 09 — стр. 1239–1240](books/noncanonical/meqabyan-i-ru-part-09.md)
-- Мекабьян II — стр. 1241
+- [Мекабьян II](books/noncanonical/meqabyan-ii-index.md) — стр. 1241
+  - [часть 01 — стр. 1241–1244](books/noncanonical/meqabyan-ii-ru-part-01.md)
+  - [часть 02 — стр. 1245–1248](books/noncanonical/meqabyan-ii-ru-part-02.md)
+  - [часть 03 — стр. 1249–1252](books/noncanonical/meqabyan-ii-ru-part-03.md)
+  - [часть 04 — стр. 1253–1256](books/noncanonical/meqabyan-ii-ru-part-04.md)
+  - [часть 05 — стр. 1257–1259](books/noncanonical/meqabyan-ii-ru-part-05.md)
 - Мекабьян III — стр. 1260
 - Молитвенные книги — стр. 1270
 - Молитва Манассии — стр. 1270
