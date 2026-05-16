@@ -2,6 +2,13 @@
 
 Проект поэтапного перевода книги `Digital_Ethipian_Bible_full.txt` на русский язык.
 
+## Навигация
+
+- [INDEX.md](INDEX.md) — основной индекс проекта
+- [TOC.md](TOC.md) — оглавление исходного издания
+- [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md) — план перевода
+
+
 ## Структура
 
 - `Digital_Ethipian_Bible_full.txt` — полный извлечённый текст исходного издания
