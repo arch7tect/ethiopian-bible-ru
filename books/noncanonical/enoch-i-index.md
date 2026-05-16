@@ -17,12 +17,14 @@
 - `enoch-i-ru-part-09.md` — стр. 1110–1113
 - `enoch-i-ru-part-10.md` — стр. 1114–1117
 - `enoch-i-ru-part-11.md` — стр. 1118–1121
+- `enoch-i-ru-part-12.md` — стр. 1122–1126
 - `enoch-i-ru-part-06.md` — стр. 1098–1101
 - `enoch-i-ru-part-07.md` — стр. 1102–1105
 - `enoch-i-ru-part-08.md` — стр. 1106–1109
 - `enoch-i-ru-part-09.md` — стр. 1110–1113
 - `enoch-i-ru-part-10.md` — стр. 1114–1117
 - `enoch-i-ru-part-11.md` — стр. 1118–1121
+- `enoch-i-ru-part-12.md` — стр. 1122–1126
 
 ## Исходные фрагменты
 
@@ -37,14 +39,16 @@
 - `enoch-i-source-part-09.md` — стр. 1110–1113
 - `enoch-i-source-part-10.md` — стр. 1114–1117
 - `enoch-i-source-part-11.md` — стр. 1118–1121
+- `enoch-i-source-part-12.md` — стр. 1122–1126
 - `enoch-i-source-part-06.md` — стр. 1098–1101
 - `enoch-i-source-part-07.md` — стр. 1102–1105
 - `enoch-i-source-part-08.md` — стр. 1106–1109
 - `enoch-i-source-part-09.md` — стр. 1110–1113
 - `enoch-i-source-part-10.md` — стр. 1114–1117
 - `enoch-i-source-part-11.md` — стр. 1118–1121
+- `enoch-i-source-part-12.md` — стр. 1122–1126
 
 ## Статус
 
-- Переведено: стр. 1078–1121
-- Осталось перевести: стр. 1122–1126
+- Переведено: стр. 1078–1126
+- Осталось перевести: —
