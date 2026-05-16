@@ -11,7 +11,6 @@
 
 ### Енох I
 
-- [Индекс Еноха I](books/noncanonical/enoch-i-index.md)
 - [Енох I — стр. 1078–1081](books/noncanonical/enoch-i-ru-part-01.md)
 - [Енох I — стр. 1082–1085](books/noncanonical/enoch-i-ru-part-02.md)
 - [Енох I — стр. 1086–1089](books/noncanonical/enoch-i-ru-part-03.md)
@@ -27,7 +26,6 @@
 
 ### Енох II
 
-- [Индекс Еноха II](books/noncanonical/enoch-ii-index.md)
 - [Енох II — стр. 1127–1130](books/noncanonical/enoch-ii-ru-part-01.md)
 - [Енох II — стр. 1131–1134](books/noncanonical/enoch-ii-ru-part-02.md)
 - [Енох II — стр. 1135–1138](books/noncanonical/enoch-ii-ru-part-03.md)
@@ -35,7 +33,6 @@
 
 ### Юбилеи
 
-- [Индекс Юбилеев](books/noncanonical/jubilees-index.md)
 - [Юбилеи — стр. 1143–1146](books/noncanonical/jubilees-ru-part-01.md)
 - [Юбилеи — стр. 1147–1150](books/noncanonical/jubilees-ru-part-02.md)
 - [Юбилеи — стр. 1151–1154](books/noncanonical/jubilees-ru-part-03.md)
@@ -55,7 +52,6 @@
 
 ### Мекабьян I
 
-- [Индекс Мекабьян I](books/noncanonical/meqabyan-i-index.md)
 - [Мекабьян I — стр. 1207–1210](books/noncanonical/meqabyan-i-ru-part-01.md)
 - [Мекабьян I — стр. 1211–1214](books/noncanonical/meqabyan-i-ru-part-02.md)
 - [Мекабьян I — стр. 1215–1218](books/noncanonical/meqabyan-i-ru-part-03.md)
@@ -68,7 +64,6 @@
 
 ### Мекабьян II
 
-- [Индекс Мекабьян II](books/noncanonical/meqabyan-ii-index.md)
 - [Мекабьян II — стр. 1241–1244](books/noncanonical/meqabyan-ii-ru-part-01.md)
 - [Мекабьян II — стр. 1245–1248](books/noncanonical/meqabyan-ii-ru-part-02.md)
 - [Мекабьян II — стр. 1249–1252](books/noncanonical/meqabyan-ii-ru-part-03.md)

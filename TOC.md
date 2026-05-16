@@ -100,7 +100,7 @@
 - 1 Климента — стр. 1045
 - Апокалиптическая книга — стр. 1064
 - Откровение — стр. 1064
-- [Енох I](books/noncanonical/enoch-i-index.md) — стр. 1078
+- Енох I — стр. 1078
   - [часть 01 — стр. 1078–1081](books/noncanonical/enoch-i-ru-part-01.md)
   - [часть 02 — стр. 1082–1085](books/noncanonical/enoch-i-ru-part-02.md)
   - [часть 03 — стр. 1086–1089](books/noncanonical/enoch-i-ru-part-03.md)
@@ -113,12 +113,12 @@
   - [часть 10 — стр. 1114–1117](books/noncanonical/enoch-i-ru-part-10.md)
   - [часть 11 — стр. 1118–1121](books/noncanonical/enoch-i-ru-part-11.md)
   - [часть 12 — стр. 1122–1126](books/noncanonical/enoch-i-ru-part-12.md)
-- [Енох II](books/noncanonical/enoch-ii-index.md) — стр. 1127
+- Енох II — стр. 1127
   - [часть 01 — стр. 1127–1130](books/noncanonical/enoch-ii-ru-part-01.md)
   - [часть 02 — стр. 1131–1134](books/noncanonical/enoch-ii-ru-part-02.md)
   - [часть 03 — стр. 1135–1138](books/noncanonical/enoch-ii-ru-part-03.md)
   - [часть 04 — стр. 1139–1142](books/noncanonical/enoch-ii-ru-part-04.md)
-- [Юбилеи](books/noncanonical/jubilees-index.md) — стр. 1143
+- Юбилеи — стр. 1143
   - [часть 01 — стр. 1143–1146](books/noncanonical/jubilees-ru-part-01.md)
   - [часть 02 — стр. 1147–1150](books/noncanonical/jubilees-ru-part-02.md)
   - [часть 03 — стр. 1151–1154](books/noncanonical/jubilees-ru-part-03.md)
@@ -138,7 +138,7 @@
 - Дополнительные книги — стр. 1207
 - (Уникальные для эфиопского канона) — стр. 1207
 - Исторические книги — стр. 1207
-- [Мекабьян I](books/noncanonical/meqabyan-i-index.md) — стр. 1207
+- Мекабьян I — стр. 1207
   - [часть 01 — стр. 1207–1210](books/noncanonical/meqabyan-i-ru-part-01.md)
   - [часть 02 — стр. 1211–1214](books/noncanonical/meqabyan-i-ru-part-02.md)
   - [часть 03 — стр. 1215–1218](books/noncanonical/meqabyan-i-ru-part-03.md)
@@ -148,7 +148,7 @@
   - [часть 07 — стр. 1231–1234](books/noncanonical/meqabyan-i-ru-part-07.md)
   - [часть 08 — стр. 1235–1238](books/noncanonical/meqabyan-i-ru-part-08.md)
   - [часть 09 — стр. 1239–1240](books/noncanonical/meqabyan-i-ru-part-09.md)
-- [Мекабьян II](books/noncanonical/meqabyan-ii-index.md) — стр. 1241
+- Мекабьян II — стр. 1241
   - [часть 01 — стр. 1241–1244](books/noncanonical/meqabyan-ii-ru-part-01.md)
   - [часть 02 — стр. 1245–1248](books/noncanonical/meqabyan-ii-ru-part-02.md)
   - [часть 03 — стр. 1249–1252](books/noncanonical/meqabyan-ii-ru-part-03.md)
