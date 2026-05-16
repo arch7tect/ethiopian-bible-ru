@@ -69,3 +69,9 @@
 - [Мекабьян II — стр. 1249–1252](books/noncanonical/meqabyan-ii-ru-part-03.md)
 - [Мекабьян II — стр. 1253–1256](books/noncanonical/meqabyan-ii-ru-part-04.md)
 - [Мекабьян II — стр. 1257–1259](books/noncanonical/meqabyan-ii-ru-part-05.md)
+
+### Мекабьян III
+
+- [Мекабьян III — стр. 1260–1263](books/noncanonical/meqabyan-iii-ru-part-01.md)
+- [Мекабьян III — стр. 1264–1267](books/noncanonical/meqabyan-iii-ru-part-02.md)
+- [Мекабьян III — стр. 1268–1269](books/noncanonical/meqabyan-iii-ru-part-03.md)
