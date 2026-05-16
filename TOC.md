@@ -138,7 +138,16 @@
 - Дополнительные книги — стр. 1207
 - (Уникальные для эфиопского канона) — стр. 1207
 - Исторические книги — стр. 1207
-- Мекабьян I — стр. 1207
+- [Мекабьян I](books/noncanonical/meqabyan-i-index.md) — стр. 1207
+  - [часть 01 — стр. 1207–1210](books/noncanonical/meqabyan-i-ru-part-01.md)
+  - [часть 02 — стр. 1211–1214](books/noncanonical/meqabyan-i-ru-part-02.md)
+  - [часть 03 — стр. 1215–1218](books/noncanonical/meqabyan-i-ru-part-03.md)
+  - [часть 04 — стр. 1219–1222](books/noncanonical/meqabyan-i-ru-part-04.md)
+  - [часть 05 — стр. 1223–1226](books/noncanonical/meqabyan-i-ru-part-05.md)
+  - [часть 06 — стр. 1227–1230](books/noncanonical/meqabyan-i-ru-part-06.md)
+  - [часть 07 — стр. 1231–1234](books/noncanonical/meqabyan-i-ru-part-07.md)
+  - [часть 08 — стр. 1235–1238](books/noncanonical/meqabyan-i-ru-part-08.md)
+  - [часть 09 — стр. 1239–1240](books/noncanonical/meqabyan-i-ru-part-09.md)
 - Мекабьян II — стр. 1241
 - Мекабьян III — стр. 1260
 - Молитвенные книги — стр. 1270

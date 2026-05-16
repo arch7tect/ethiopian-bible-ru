@@ -52,3 +52,16 @@
 - [Юбилеи — стр. 1195–1198](books/noncanonical/jubilees-ru-part-14.md)
 - [Юбилеи — стр. 1199–1202](books/noncanonical/jubilees-ru-part-15.md)
 - [Юбилеи — стр. 1203–1206](books/noncanonical/jubilees-ru-part-16.md)
+
+### Мекабьян I
+
+- [Индекс Мекабьян I](books/noncanonical/meqabyan-i-index.md)
+- [Мекабьян I — стр. 1207–1210](books/noncanonical/meqabyan-i-ru-part-01.md)
+- [Мекабьян I — стр. 1211–1214](books/noncanonical/meqabyan-i-ru-part-02.md)
+- [Мекабьян I — стр. 1215–1218](books/noncanonical/meqabyan-i-ru-part-03.md)
+- [Мекабьян I — стр. 1219–1222](books/noncanonical/meqabyan-i-ru-part-04.md)
+- [Мекабьян I — стр. 1223–1226](books/noncanonical/meqabyan-i-ru-part-05.md)
+- [Мекабьян I — стр. 1227–1230](books/noncanonical/meqabyan-i-ru-part-06.md)
+- [Мекабьян I — стр. 1231–1234](books/noncanonical/meqabyan-i-ru-part-07.md)
+- [Мекабьян I — стр. 1235–1238](books/noncanonical/meqabyan-i-ru-part-08.md)
+- [Мекабьян I — стр. 1239–1240](books/noncanonical/meqabyan-i-ru-part-09.md)
