@@ -33,6 +33,14 @@
 - [Левит — стр. 119–120](books/canonical/leviticus-ru-part-07.md)
 - Левит — стр. 93
 - [Числа — стр. 120–125](books/canonical/numbers-ru-part-01.md)
+- [Числа — стр. 126–129](books/canonical/numbers-ru-part-02.md)
+- [Числа — стр. 130–133](books/canonical/numbers-ru-part-03.md)
+- [Числа — стр. 134–137](books/canonical/numbers-ru-part-04.md)
+- [Числа — стр. 138–141](books/canonical/numbers-ru-part-05.md)
+- [Числа — стр. 142–145](books/canonical/numbers-ru-part-06.md)
+- [Числа — стр. 146–149](books/canonical/numbers-ru-part-07.md)
+- [Числа — стр. 150–153](books/canonical/numbers-ru-part-08.md)
+- [Числа — стр. 154–156](books/canonical/numbers-ru-part-09.md)
 - Числа — стр. 120
 - Второзаконие — стр. 157
 - Исторические книги — стр. 188
