@@ -14,6 +14,7 @@
 - [Бытие — стр. 31–36](books/canonical/genesis-ru-part-04.md)
 - [Бытие — стр. 37–42](books/canonical/genesis-ru-part-05.md)
 - [Бытие — стр. 43–48](books/canonical/genesis-ru-part-06.md)
+- [Бытие — стр. 49–54](books/canonical/genesis-ru-part-07.md)
 - Бытие — стр. 13
 - Исход — стр. 57
 - Левит — стр. 93
