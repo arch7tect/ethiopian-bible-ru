@@ -95,6 +95,12 @@
 ### Левит
 
 - [Левит — стр. 93–98](books/canonical/leviticus-ru-part-01.md)
+- [Левит — стр. 99–102](books/canonical/leviticus-ru-part-02.md)
+- [Левит — стр. 103–104](books/canonical/leviticus-ru-part-03.md)
+- [Левит — стр. 105–107](books/canonical/leviticus-ru-part-04.md)
+- [Левит — стр. 108–112](books/canonical/leviticus-ru-part-05.md)
+- [Левит — стр. 113–118](books/canonical/leviticus-ru-part-06.md)
+- [Левит — стр. 119–120](books/canonical/leviticus-ru-part-07.md)
 
 ### Иов
 
