@@ -55,6 +55,11 @@
 - [2 Ездры — стр. 486–489](books/noncanonical/esdras-ii-ru-part-06.md)
 - [2 Ездры — стр. 490–492](books/noncanonical/esdras-ii-ru-part-07.md)
 
+### 1 Варуха
+
+- [1 Варуха — стр. 492–494](books/noncanonical/baruch-i-ru-part-01.md)
+- [1 Варуха — стр. 495–497](books/noncanonical/baruch-i-ru-part-02.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)

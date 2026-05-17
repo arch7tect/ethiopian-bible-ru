@@ -50,7 +50,9 @@
   - [часть 05 — стр. 482–485](books/noncanonical/esdras-ii-ru-part-05.md)
   - [часть 06 — стр. 486–489](books/noncanonical/esdras-ii-ru-part-06.md)
   - [часть 07 — стр. 490–492](books/noncanonical/esdras-ii-ru-part-07.md)
-- 1 Варуха — стр. 492
+- [1 Варуха — стр. 492](books/noncanonical/baruch-i-ru-part-01.md)
+  - [часть 01 — стр. 492–494](books/noncanonical/baruch-i-ru-part-01.md)
+  - [часть 02 — стр. 495–497](books/noncanonical/baruch-i-ru-part-02.md)
 - 2 Варуха — стр. 498
 - Книги мудрости (поэтические книги) — стр. 505
 - Иов — стр. 505
