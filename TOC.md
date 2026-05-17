@@ -32,6 +32,7 @@
 - [Левит — стр. 113–118](books/canonical/leviticus-ru-part-06.md)
 - [Левит — стр. 119–120](books/canonical/leviticus-ru-part-07.md)
 - Левит — стр. 93
+- [Числа — стр. 120–125](books/canonical/numbers-ru-part-01.md)
 - Числа — стр. 120
 - Второзаконие — стр. 157
 - Исторические книги — стр. 188
