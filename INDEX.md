@@ -81,6 +81,7 @@
 - [Бытие — стр. 37–42](books/canonical/genesis-ru-part-05.md)
 - [Бытие — стр. 43–48](books/canonical/genesis-ru-part-06.md)
 - [Бытие — стр. 49–54](books/canonical/genesis-ru-part-07.md)
+- [Бытие — стр. 55–57](books/canonical/genesis-ru-part-08.md)
 
 ### Иов
 
