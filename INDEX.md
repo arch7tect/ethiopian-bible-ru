@@ -21,6 +21,11 @@
 
 - [Псалом 151 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
 
+### Дополнения к Есфири
+
+- [Дополнения к Есфири — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
+- [Дополнения к Есфири — стр. 424–426](books/noncanonical/esther-additions-ru-part-02.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)

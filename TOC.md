@@ -26,7 +26,9 @@
 - Ездра — стр. 391
 - Неемия — стр. 400
 - Есфирь — стр. 413
-- Дополнения к Есфири — стр. 420
+- [Дополнения к Есфири — стр. 420](books/noncanonical/esther-additions-ru-part-01.md)
+  - [часть 01 — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
+  - [часть 02 — стр. 424–426](books/noncanonical/esther-additions-ru-part-02.md)
 - Товит — стр. 427
 - Иудифь — стр. 438
 - 1 Ездры — стр. 451
