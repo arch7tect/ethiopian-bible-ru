@@ -6,23 +6,18 @@
 
 - [INDEX.md](INDEX.md) — основной индекс проекта
 - [TOC.md](TOC.md) — оглавление исходного издания
-- [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md) — план перевода
+
+## Источник
+
+- PDF-источник: [Digital_Ethipian_Bible_(pdf).pdf](https://dn721506.ca.archive.org/0/items/515-apocrypha-by-edward-jones/Digital_Ethipian_Bible_%28pdf%29.pdf)
+- Рабочий TXT в репозитории: `Digital_Ethipian_Bible_full.txt`
 
 ## Структура
 
 - `Digital_Ethipian_Bible_full.txt` — полный извлечённый текст исходного издания
 - `TOC.md` — русское оглавление книги
-- `TRANSLATION_PLAN.md` — план перевода
 - `books/noncanonical/` — переводы неканонических книг
 - `books/canonical/` — переводы остальных книг
-
-## Стартовый приоритет
-
-1. Енох I
-2. Енох II
-3. Юбилеи
-4. Мекабьян I–III
-5. 1 Климента
 
 ## Рабочая база
 
