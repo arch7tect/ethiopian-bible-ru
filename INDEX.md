@@ -77,6 +77,10 @@
 - [Иов — стр. 521–523](books/canonical/job-ru-part-05.md)
 - [Иов — стр. 524–526](books/canonical/job-ru-part-06.md)
 
+### Псалтирь
+
+- [Псалтирь — стр. 526–529](books/canonical/psalms-ru-part-01.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
