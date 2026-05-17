@@ -75,6 +75,7 @@
 ### Бытие
 
 - [Бытие — стр. 13–18](books/canonical/genesis-ru-part-01.md)
+- [Бытие — стр. 19–24](books/canonical/genesis-ru-part-02.md)
 
 ### Иов
 
