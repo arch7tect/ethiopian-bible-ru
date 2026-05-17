@@ -58,7 +58,12 @@
   - [часть 02 — стр. 501–503](books/noncanonical/baruch-ii-ru-part-02.md)
   - [часть 03 — стр. 504](books/noncanonical/baruch-ii-ru-part-03.md)
 - Книги мудрости (поэтические книги) — стр. 505
-- Иов — стр. 505
+- [Иов — стр. 505–508](books/canonical/job-ru-part-01.md)
+- [Иов — стр. 509–512](books/canonical/job-ru-part-02.md)
+- [Иов — стр. 513–516](books/canonical/job-ru-part-03.md)
+- [Иов — стр. 517–520](books/canonical/job-ru-part-04.md)
+- [Иов — стр. 521–523](books/canonical/job-ru-part-05.md)
+- [Иов — стр. 524–526](books/canonical/job-ru-part-06.md)
 - Псалтирь — стр. 526
 - [Псалом 151 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
   - [часть 01 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)

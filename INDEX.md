@@ -66,6 +66,17 @@
 - [2 Варуха — стр. 501–503](books/noncanonical/baruch-ii-ru-part-02.md)
 - [2 Варуха — стр. 504](books/noncanonical/baruch-ii-ru-part-03.md)
 
+## Канонические книги
+
+### Иов
+
+- [Иов — стр. 505–508](books/canonical/job-ru-part-01.md)
+- [Иов — стр. 509–512](books/canonical/job-ru-part-02.md)
+- [Иов — стр. 513–516](books/canonical/job-ru-part-03.md)
+- [Иов — стр. 517–520](books/canonical/job-ru-part-04.md)
+- [Иов — стр. 521–523](books/canonical/job-ru-part-05.md)
+- [Иов — стр. 524–526](books/canonical/job-ru-part-06.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
