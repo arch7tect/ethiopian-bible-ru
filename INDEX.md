@@ -89,6 +89,7 @@
 ### Притчи
 
 - [Притчи — стр. 582–587](books/canonical/proverbs-ru-part-01.md)
+- [Притчи — стр. 588–593](books/canonical/proverbs-ru-part-02.md)
 
 ### Молитва Манассии
 
