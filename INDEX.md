@@ -68,6 +68,10 @@
 
 ## Канонические книги
 
+### Бытие
+
+- [Бытие — стр. 13–18](books/canonical/genesis-ru-part-01.md)
+
 ### Иов
 
 - [Иов — стр. 505–508](books/canonical/job-ru-part-01.md)
