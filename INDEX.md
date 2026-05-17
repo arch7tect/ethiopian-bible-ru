@@ -80,6 +80,7 @@
 ### Псалтирь
 
 - [Псалтирь — стр. 526–529](books/canonical/psalms-ru-part-01.md)
+- [Псалтирь — стр. 530–539](books/canonical/psalms-ru-part-02.md)
 
 ### Молитва Манассии
 
