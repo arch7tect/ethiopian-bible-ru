@@ -24,6 +24,7 @@
 - [Исход — стр. 81–86](books/canonical/exodus-ru-part-05.md)
 - [Исход — стр. 87–92](books/canonical/exodus-ru-part-06.md)
 - Исход — стр. 57
+- [Левит — стр. 93–98](books/canonical/leviticus-ru-part-01.md)
 - Левит — стр. 93
 - Числа — стр. 120
 - Второзаконие — стр. 157

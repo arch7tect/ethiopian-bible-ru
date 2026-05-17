@@ -92,6 +92,10 @@
 - [Исход — стр. 81–86](books/canonical/exodus-ru-part-05.md)
 - [Исход — стр. 87–92](books/canonical/exodus-ru-part-06.md)
 
+### Левит
+
+- [Левит — стр. 93–98](books/canonical/leviticus-ru-part-01.md)
+
 ### Иов
 
 - [Иов — стр. 505–508](books/canonical/job-ru-part-01.md)
