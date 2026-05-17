@@ -66,6 +66,10 @@
 - [Иов — стр. 524–526](books/canonical/job-ru-part-06.md)
 - [Псалтирь — стр. 526–529](books/canonical/psalms-ru-part-01.md)
 - [Псалтирь — стр. 530–539](books/canonical/psalms-ru-part-02.md)
+- [Псалтирь — стр. 540–549](books/canonical/psalms-ru-part-03.md)
+- [Псалтирь — стр. 550–559](books/canonical/psalms-ru-part-04.md)
+- [Псалтирь — стр. 560–569](books/canonical/psalms-ru-part-05.md)
+- [Псалтирь — стр. 570–580](books/canonical/psalms-ru-part-06.md)
 - Псалтирь — стр. 526
 - [Псалом 151 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
   - [часть 01 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
