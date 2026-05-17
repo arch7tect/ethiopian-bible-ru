@@ -42,7 +42,14 @@
   - [часть 02 — стр. 455–458](books/noncanonical/esdras-i-ru-part-02.md)
   - [часть 03 — стр. 459–462](books/noncanonical/esdras-i-ru-part-03.md)
   - [часть 04 — стр. 463–466](books/noncanonical/esdras-i-ru-part-04.md)
-- 2 Ездры — стр. 466
+- [2 Ездры — стр. 466](books/noncanonical/esdras-ii-ru-part-01.md)
+  - [часть 01 — стр. 466–469](books/noncanonical/esdras-ii-ru-part-01.md)
+  - [часть 02 — стр. 470–473](books/noncanonical/esdras-ii-ru-part-02.md)
+  - [часть 03 — стр. 474–477](books/noncanonical/esdras-ii-ru-part-03.md)
+  - [часть 04 — стр. 478–481](books/noncanonical/esdras-ii-ru-part-04.md)
+  - [часть 05 — стр. 482–485](books/noncanonical/esdras-ii-ru-part-05.md)
+  - [часть 06 — стр. 486–489](books/noncanonical/esdras-ii-ru-part-06.md)
+  - [часть 07 — стр. 490–492](books/noncanonical/esdras-ii-ru-part-07.md)
 - 1 Варуха — стр. 492
 - 2 Варуха — стр. 498
 - Книги мудрости (поэтические книги) — стр. 505

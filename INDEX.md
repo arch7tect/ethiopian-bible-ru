@@ -45,6 +45,16 @@
 - [1 Ездры — стр. 459–462](books/noncanonical/esdras-i-ru-part-03.md)
 - [1 Ездры — стр. 463–466](books/noncanonical/esdras-i-ru-part-04.md)
 
+### 2 Ездры
+
+- [2 Ездры — стр. 466–469](books/noncanonical/esdras-ii-ru-part-01.md)
+- [2 Ездры — стр. 470–473](books/noncanonical/esdras-ii-ru-part-02.md)
+- [2 Ездры — стр. 474–477](books/noncanonical/esdras-ii-ru-part-03.md)
+- [2 Ездры — стр. 478–481](books/noncanonical/esdras-ii-ru-part-04.md)
+- [2 Ездры — стр. 482–485](books/noncanonical/esdras-ii-ru-part-05.md)
+- [2 Ездры — стр. 486–489](books/noncanonical/esdras-ii-ru-part-06.md)
+- [2 Ездры — стр. 490–492](books/noncanonical/esdras-ii-ru-part-07.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
