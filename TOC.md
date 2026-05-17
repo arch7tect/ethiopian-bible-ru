@@ -33,7 +33,10 @@
   - [часть 01 — стр. 427–430](books/noncanonical/tobit-ru-part-01.md)
   - [часть 02 — стр. 431–434](books/noncanonical/tobit-ru-part-02.md)
   - [часть 03 — стр. 435–438](books/noncanonical/tobit-ru-part-03.md)
-- Иудифь — стр. 438
+- [Иудифь — стр. 438](books/noncanonical/judith-ru-part-01.md)
+  - [часть 01 — стр. 438–442](books/noncanonical/judith-ru-part-01.md)
+  - [часть 02 — стр. 443–446](books/noncanonical/judith-ru-part-02.md)
+  - [часть 03 — стр. 447–451](books/noncanonical/judith-ru-part-03.md)
 - 1 Ездры — стр. 451
 - 2 Ездры — стр. 466
 - 1 Варуха — стр. 492

@@ -32,6 +32,12 @@
 - [Товит — стр. 431–434](books/noncanonical/tobit-ru-part-02.md)
 - [Товит — стр. 435–438](books/noncanonical/tobit-ru-part-03.md)
 
+### Иудифь
+
+- [Иудифь — стр. 438–442](books/noncanonical/judith-ru-part-01.md)
+- [Иудифь — стр. 443–446](books/noncanonical/judith-ru-part-02.md)
+- [Иудифь — стр. 447–451](books/noncanonical/judith-ru-part-03.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
