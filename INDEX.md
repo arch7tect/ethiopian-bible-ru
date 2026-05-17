@@ -68,6 +68,10 @@
 
 ## Канонические книги
 
+### Введение
+
+- [Введение — стр. 10–12](books/canonical/introduction-ru-part-01.md)
+
 ### Бытие
 
 - [Бытие — стр. 13–18](books/canonical/genesis-ru-part-01.md)
