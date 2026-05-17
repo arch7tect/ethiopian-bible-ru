@@ -29,7 +29,10 @@
 - [Дополнения к Есфири — стр. 420](books/noncanonical/esther-additions-ru-part-01.md)
   - [часть 01 — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
   - [часть 02 — стр. 424–426](books/noncanonical/esther-additions-ru-part-02.md)
-- Товит — стр. 427
+- [Товит — стр. 427](books/noncanonical/tobit-ru-part-01.md)
+  - [часть 01 — стр. 427–430](books/noncanonical/tobit-ru-part-01.md)
+  - [часть 02 — стр. 431–434](books/noncanonical/tobit-ru-part-02.md)
+  - [часть 03 — стр. 435–438](books/noncanonical/tobit-ru-part-03.md)
 - Иудифь — стр. 438
 - 1 Ездры — стр. 451
 - 2 Ездры — стр. 466

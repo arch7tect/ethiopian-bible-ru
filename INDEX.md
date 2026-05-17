@@ -26,6 +26,12 @@
 - [Дополнения к Есфири — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
 - [Дополнения к Есфири — стр. 424–426](books/noncanonical/esther-additions-ru-part-02.md)
 
+### Товит
+
+- [Товит — стр. 427–430](books/noncanonical/tobit-ru-part-01.md)
+- [Товит — стр. 431–434](books/noncanonical/tobit-ru-part-02.md)
+- [Товит — стр. 435–438](books/noncanonical/tobit-ru-part-03.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
