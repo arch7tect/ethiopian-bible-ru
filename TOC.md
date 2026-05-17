@@ -21,6 +21,7 @@
 - [Исход — стр. 63–68](books/canonical/exodus-ru-part-02.md)
 - [Исход — стр. 69–74](books/canonical/exodus-ru-part-03.md)
 - [Исход — стр. 75–80](books/canonical/exodus-ru-part-04.md)
+- [Исход — стр. 81–86](books/canonical/exodus-ru-part-05.md)
 - Исход — стр. 57
 - Левит — стр. 93
 - Числа — стр. 120
