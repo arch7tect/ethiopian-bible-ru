@@ -6,7 +6,6 @@
 
 ## Оглавление PDF
 - [Введение — стр. 10–12](books/canonical/introduction-ru-part-01.md)
-- Введение — стр. 10
 - Ветхий Завет — стр. 12
 - Пятикнижие (Тора / Закон) — стр. 13
 - [Бытие — стр. 13–18](books/canonical/genesis-ru-part-01.md)
