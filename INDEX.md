@@ -83,6 +83,10 @@
 - [Бытие — стр. 49–54](books/canonical/genesis-ru-part-07.md)
 - [Бытие — стр. 55–57](books/canonical/genesis-ru-part-08.md)
 
+### Исход
+
+- [Исход — стр. 57–62](books/canonical/exodus-ru-part-01.md)
+
 ### Иов
 
 - [Иов — стр. 505–508](books/canonical/job-ru-part-01.md)

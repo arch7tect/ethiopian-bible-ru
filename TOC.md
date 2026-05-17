@@ -17,6 +17,7 @@
 - [Бытие — стр. 49–54](books/canonical/genesis-ru-part-07.md)
 - [Бытие — стр. 55–57](books/canonical/genesis-ru-part-08.md)
 - Бытие — стр. 13
+- [Исход — стр. 57–62](books/canonical/exodus-ru-part-01.md)
 - Исход — стр. 57
 - Левит — стр. 93
 - Числа — стр. 120
