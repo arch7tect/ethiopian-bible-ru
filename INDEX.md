@@ -38,6 +38,13 @@
 - [Иудифь — стр. 443–446](books/noncanonical/judith-ru-part-02.md)
 - [Иудифь — стр. 447–451](books/noncanonical/judith-ru-part-03.md)
 
+### 1 Ездры
+
+- [1 Ездры — стр. 451–454](books/noncanonical/esdras-i-ru-part-01.md)
+- [1 Ездры — стр. 455–458](books/noncanonical/esdras-i-ru-part-02.md)
+- [1 Ездры — стр. 459–462](books/noncanonical/esdras-i-ru-part-03.md)
+- [1 Ездры — стр. 463–466](books/noncanonical/esdras-i-ru-part-04.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)

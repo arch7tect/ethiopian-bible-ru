@@ -37,7 +37,11 @@
   - [часть 01 — стр. 438–442](books/noncanonical/judith-ru-part-01.md)
   - [часть 02 — стр. 443–446](books/noncanonical/judith-ru-part-02.md)
   - [часть 03 — стр. 447–451](books/noncanonical/judith-ru-part-03.md)
-- 1 Ездры — стр. 451
+- [1 Ездры — стр. 451](books/noncanonical/esdras-i-ru-part-01.md)
+  - [часть 01 — стр. 451–454](books/noncanonical/esdras-i-ru-part-01.md)
+  - [часть 02 — стр. 455–458](books/noncanonical/esdras-i-ru-part-02.md)
+  - [часть 03 — стр. 459–462](books/noncanonical/esdras-i-ru-part-03.md)
+  - [часть 04 — стр. 463–466](books/noncanonical/esdras-i-ru-part-04.md)
 - 2 Ездры — стр. 466
 - 1 Варуха — стр. 492
 - 2 Варуха — стр. 498
