@@ -87,6 +87,7 @@
 
 - [Исход — стр. 57–62](books/canonical/exodus-ru-part-01.md)
 - [Исход — стр. 63–68](books/canonical/exodus-ru-part-02.md)
+- [Исход — стр. 69–74](books/canonical/exodus-ru-part-03.md)
 
 ### Иов
 
