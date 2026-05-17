@@ -53,7 +53,10 @@
 - [1 Варуха — стр. 492](books/noncanonical/baruch-i-ru-part-01.md)
   - [часть 01 — стр. 492–494](books/noncanonical/baruch-i-ru-part-01.md)
   - [часть 02 — стр. 495–497](books/noncanonical/baruch-i-ru-part-02.md)
-- 2 Варуха — стр. 498
+- [2 Варуха — стр. 498](books/noncanonical/baruch-ii-ru-part-01.md)
+  - [часть 01 — стр. 498–500](books/noncanonical/baruch-ii-ru-part-01.md)
+  - [часть 02 — стр. 501–503](books/noncanonical/baruch-ii-ru-part-02.md)
+  - [часть 03 — стр. 504](books/noncanonical/baruch-ii-ru-part-03.md)
 - Книги мудрости (поэтические книги) — стр. 505
 - Иов — стр. 505
 - Псалтирь — стр. 526

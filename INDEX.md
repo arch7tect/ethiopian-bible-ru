@@ -60,6 +60,12 @@
 - [1 Варуха — стр. 492–494](books/noncanonical/baruch-i-ru-part-01.md)
 - [1 Варуха — стр. 495–497](books/noncanonical/baruch-i-ru-part-02.md)
 
+### 2 Варуха
+
+- [2 Варуха — стр. 498–500](books/noncanonical/baruch-ii-ru-part-01.md)
+- [2 Варуха — стр. 501–503](books/noncanonical/baruch-ii-ru-part-02.md)
+- [2 Варуха — стр. 504](books/noncanonical/baruch-ii-ru-part-03.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
