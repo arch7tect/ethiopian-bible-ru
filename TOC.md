@@ -12,6 +12,7 @@
 - [Бытие — стр. 19–24](books/canonical/genesis-ru-part-02.md)
 - [Бытие — стр. 25–30](books/canonical/genesis-ru-part-03.md)
 - [Бытие — стр. 31–36](books/canonical/genesis-ru-part-04.md)
+- [Бытие — стр. 37–42](books/canonical/genesis-ru-part-05.md)
 - Бытие — стр. 13
 - Исход — стр. 57
 - Левит — стр. 93
