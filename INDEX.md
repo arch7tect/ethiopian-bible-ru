@@ -86,6 +86,10 @@
 - [Псалтирь — стр. 560–569](books/canonical/psalms-ru-part-05.md)
 - [Псалтирь — стр. 570–580](books/canonical/psalms-ru-part-06.md)
 
+### Притчи
+
+- [Притчи — стр. 582–587](books/canonical/proverbs-ru-part-01.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)

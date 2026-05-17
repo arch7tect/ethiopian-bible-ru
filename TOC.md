@@ -73,6 +73,7 @@
 - Псалтирь — стр. 526
 - [Псалом 151 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
   - [часть 01 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
+- [Притчи — стр. 582–587](books/canonical/proverbs-ru-part-01.md)
 - Притчи — стр. 582
 - Екклесиаст — стр. 600
 - Песнь песней — стр. 606
