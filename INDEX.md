@@ -20,6 +20,32 @@
 ### Book of the Covenant
 
 - [Book of the Covenant 1 + 2 — собранный английский текст](books/noncanonical/book-of-the-covenant-combined.md)
+- [Book of the Covenant — source part 01 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-01.md)
+- [Book of the Covenant — часть 01 (гибридный русский черновик, глава 1)](books/noncanonical/book-of-the-covenant-ru-part-01.md)
+- [Book of the Covenant — source part 02 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-02.md)
+- [Book of the Covenant — часть 02 (гибридный русский черновик, главы 2–4)](books/noncanonical/book-of-the-covenant-ru-part-02.md)
+- [Book of the Covenant — source part 03 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-03.md)
+- [Book of the Covenant — часть 03 (гибридный русский черновик, главы 5–8)](books/noncanonical/book-of-the-covenant-ru-part-03.md)
+- [Book of the Covenant — source part 04 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-04.md)
+- [Book of the Covenant — часть 04 (гибридный русский черновик, главы 9–14)](books/noncanonical/book-of-the-covenant-ru-part-04.md)
+- [Book of the Covenant — source part 05 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-05.md)
+- [Book of the Covenant — часть 05 (гибридный русский черновик, главы 15–18)](books/noncanonical/book-of-the-covenant-ru-part-05.md)
+- [Book of the Covenant — source part 06 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-06.md)
+- [Book of the Covenant — часть 06 (гибридный русский черновик, главы 19–23)](books/noncanonical/book-of-the-covenant-ru-part-06.md)
+- [Book of the Covenant — source part 07 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-07.md)
+- [Book of the Covenant — часть 07 (гибридный русский черновик, главы 24–28)](books/noncanonical/book-of-the-covenant-ru-part-07.md)
+- [Book of the Covenant — source part 08 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-08.md)
+- [Book of the Covenant — часть 08 (гибридный русский черновик, главы 29–31)](books/noncanonical/book-of-the-covenant-ru-part-08.md)
+- [Book of the Covenant — source part 09 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-09.md)
+- [Book of the Covenant — часть 09 (гибридный русский черновик, главы 32–40)](books/noncanonical/book-of-the-covenant-ru-part-09.md)
+- [Book of the Covenant — source part 10 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-10.md)
+- [Book of the Covenant — часть 10 (гибридный русский черновик, главы 41–49)](books/noncanonical/book-of-the-covenant-ru-part-10.md)
+- [Book of the Covenant — source part 11 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-11.md)
+- [Book of the Covenant — часть 11 (гибридный русский черновик, главы 50–58)](books/noncanonical/book-of-the-covenant-ru-part-11.md)
+- [Book of the Covenant — source part 12 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-12.md)
+- [Book of the Covenant — часть 12 (гибридный русский черновик, главы 59–66)](books/noncanonical/book-of-the-covenant-ru-part-12.md)
+- [Book of the Covenant — source part 13 (гибридный рабочий witness)](books/noncanonical/book-of-the-covenant-source-part-13.md)
+- [Book of the Covenant — часть 13 (гибридный русский черновик, главы 67–74)](books/noncanonical/book-of-the-covenant-ru-part-13.md)
 
 ### Псалом 151
 
