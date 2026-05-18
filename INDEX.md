@@ -17,6 +17,10 @@
 - [1 Климента — стр. 1057–1060](books/noncanonical/clement-i-ru-part-04.md)
 - [1 Климента — стр. 1061–1063](books/noncanonical/clement-i-ru-part-05.md)
 
+### Book of the Covenant
+
+- [Book of the Covenant 1 + 2 — собранный английский текст](books/noncanonical/book-of-the-covenant-combined.md)
+
 ### Псалом 151
 
 - [Псалом 151 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
