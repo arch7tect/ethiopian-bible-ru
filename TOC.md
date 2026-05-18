@@ -108,7 +108,11 @@
 - Притчи — стр. 582
 - Екклесиаст — стр. 600
 - Песнь песней — стр. 606
-- Премудрость Соломона — стр. 610
+- [Премудрость Соломона — стр. 610](books/noncanonical/wisdom-of-solomon-ru-part-01.md)
+  - [часть 01 — стр. 610–613](books/noncanonical/wisdom-of-solomon-ru-part-01.md)
+  - [часть 02 — стр. 614–617](books/noncanonical/wisdom-of-solomon-ru-part-02.md)
+  - [часть 03 — стр. 618–620](books/noncanonical/wisdom-of-solomon-ru-part-03.md)
+  - [часть 04 — стр. 621–622](books/noncanonical/wisdom-of-solomon-ru-part-04.md)
 - Сирах — стр. 623
 - Пророческие книги — стр. 654
 - Большие пророки — стр. 654

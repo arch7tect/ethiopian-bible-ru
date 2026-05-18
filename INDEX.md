@@ -21,6 +21,13 @@
 
 - [Псалом 151 — стр. 581](books/noncanonical/psalm-151-ru-part-01.md)
 
+### Премудрость Соломона
+
+- [Премудрость Соломона — стр. 610–613](books/noncanonical/wisdom-of-solomon-ru-part-01.md)
+- [Премудрость Соломона — стр. 614–617](books/noncanonical/wisdom-of-solomon-ru-part-02.md)
+- [Премудрость Соломона — стр. 618–620](books/noncanonical/wisdom-of-solomon-ru-part-03.md)
+- [Премудрость Соломона — стр. 621–622](books/noncanonical/wisdom-of-solomon-ru-part-04.md)
+
 ### Дополнения к Есфири
 
 - [Дополнения к Есфири — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
