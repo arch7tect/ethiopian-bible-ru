@@ -196,6 +196,11 @@
   - [часть 11 — гибридный черновик, главы 50–58](books/noncanonical/book-of-the-covenant-ru-part-11.md)
   - [часть 12 — гибридный черновик, главы 59–66](books/noncanonical/book-of-the-covenant-ru-part-12.md)
   - [часть 13 — гибридный черновик, главы 67–74](books/noncanonical/book-of-the-covenant-ru-part-13.md)
+- [Book of the Covenant 2 — гибридный черновик, главы 1–10](books/noncanonical/book-of-the-covenant-2-ru-part-01.md)
+  - [часть 02 — гибридный черновик, главы 11–20](books/noncanonical/book-of-the-covenant-2-ru-part-02.md)
+  - [часть 03 — гибридный черновик, главы 21–30](books/noncanonical/book-of-the-covenant-2-ru-part-03.md)
+  - [часть 04 — гибридный черновик, главы 31–40](books/noncanonical/book-of-the-covenant-2-ru-part-04.md)
+  - [часть 05 — гибридный черновик, главы 41–51](books/noncanonical/book-of-the-covenant-2-ru-part-05.md)
 - Апокалиптическая книга — стр. 1064
 - Откровение — стр. 1064
 - Енох I — стр. 1078
