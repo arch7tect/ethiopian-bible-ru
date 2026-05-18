@@ -113,7 +113,15 @@
   - [часть 02 — стр. 614–617](books/noncanonical/wisdom-of-solomon-ru-part-02.md)
   - [часть 03 — стр. 618–620](books/noncanonical/wisdom-of-solomon-ru-part-03.md)
   - [часть 04 — стр. 621–622](books/noncanonical/wisdom-of-solomon-ru-part-04.md)
-- Сирах — стр. 623
+- [Сирах — стр. 623](books/noncanonical/sirach-ru-part-01.md)
+  - [часть 01 — стр. 623–626](books/noncanonical/sirach-ru-part-01.md)
+  - [часть 02 — стр. 627–630](books/noncanonical/sirach-ru-part-02.md)
+  - [часть 03 — стр. 631–634](books/noncanonical/sirach-ru-part-03.md)
+  - [часть 04 — стр. 635–638](books/noncanonical/sirach-ru-part-04.md)
+  - [часть 05 — стр. 639–642](books/noncanonical/sirach-ru-part-05.md)
+  - [часть 06 — стр. 643–646](books/noncanonical/sirach-ru-part-06.md)
+  - [часть 07 — стр. 647–650](books/noncanonical/sirach-ru-part-07.md)
+  - [часть 08 — стр. 651–653](books/noncanonical/sirach-ru-part-08.md)
 - Пророческие книги — стр. 654
 - Большие пророки — стр. 654
 - Исаия — стр. 654

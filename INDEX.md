@@ -28,6 +28,17 @@
 - [Премудрость Соломона — стр. 618–620](books/noncanonical/wisdom-of-solomon-ru-part-03.md)
 - [Премудрость Соломона — стр. 621–622](books/noncanonical/wisdom-of-solomon-ru-part-04.md)
 
+### Сирах
+
+- [Сирах — стр. 623–626](books/noncanonical/sirach-ru-part-01.md)
+- [Сирах — стр. 627–630](books/noncanonical/sirach-ru-part-02.md)
+- [Сирах — стр. 631–634](books/noncanonical/sirach-ru-part-03.md)
+- [Сирах — стр. 635–638](books/noncanonical/sirach-ru-part-04.md)
+- [Сирах — стр. 639–642](books/noncanonical/sirach-ru-part-05.md)
+- [Сирах — стр. 643–646](books/noncanonical/sirach-ru-part-06.md)
+- [Сирах — стр. 647–650](books/noncanonical/sirach-ru-part-07.md)
+- [Сирах — стр. 651–653](books/noncanonical/sirach-ru-part-08.md)
+
 ### Дополнения к Есфири
 
 - [Дополнения к Есфири — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
