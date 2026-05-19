@@ -82,6 +82,11 @@
 - [Сирах — стр. 647–650](books/noncanonical/sirach-ru-part-07.md)
 - [Сирах — стр. 651–653](books/noncanonical/sirach-ru-part-08.md)
 
+### Послание Иеремии
+
+- [Послание Иеремии — стр. 741–742](books/noncanonical/letter-of-jeremiah-ru-part-01.md)
+- [Послание Иеремии — source part 01](books/noncanonical/letter-of-jeremiah-source-part-01.md)
+
 ### Дополнения к Есфири
 
 - [Дополнения к Есфири — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
