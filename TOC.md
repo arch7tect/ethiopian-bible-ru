@@ -131,7 +131,10 @@
 - Плач Иеремии — стр. 743
 - Иезекииль — стр. 747
 - Даниил — стр. 789
-- Молитва Азарии и песнь трёх отроков — стр. 792
+- [Молитва Азарии и песнь трёх отроков — стр. 792](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-01.md)
+  - [часть 01 — стр. 792–795](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-01.md)
+  - [часть 02 — стр. 796–799](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-02.md)
+  - [часть 03 — стр. 800–802](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-03.md)
 - Сусанна — стр. 803
 - Вил и Дракон — стр. 805
 - Малые пророки — стр. 806

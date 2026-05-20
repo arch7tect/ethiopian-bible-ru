@@ -87,6 +87,15 @@
 - [Послание Иеремии — стр. 741–742](books/noncanonical/letter-of-jeremiah-ru-part-01.md)
 - [Послание Иеремии — source part 01](books/noncanonical/letter-of-jeremiah-source-part-01.md)
 
+### Молитва Азарии и песнь трёх отроков
+
+- [Молитва Азарии и песнь трёх отроков — source part 01](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-source-part-01.md)
+- [Молитва Азарии и песнь трёх отроков — стр. 792–795](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-01.md)
+- [Молитва Азарии и песнь трёх отроков — source part 02](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-source-part-02.md)
+- [Молитва Азарии и песнь трёх отроков — стр. 796–799](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-02.md)
+- [Молитва Азарии и песнь трёх отроков — source part 03](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-source-part-03.md)
+- [Молитва Азарии и песнь трёх отроков — стр. 800–802](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-03.md)
+
 ### Дополнения к Есфири
 
 - [Дополнения к Есфири — стр. 420–423](books/noncanonical/esther-additions-ru-part-01.md)
