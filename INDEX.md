@@ -62,7 +62,14 @@
 
 ### Ascension of Isaiah
 
-- [Ascension of Isaiah — source part 01 (внешний английский witness)](books/noncanonical/ascension-of-isaiah-source-part-01.md)
+- [Ascension of Isaiah — source part 01 (внешний английский witness, главы 1–3)](books/noncanonical/ascension-of-isaiah-source-part-01.md)
+- [Ascension of Isaiah — часть 01 (гибридный русский черновик, главы 1–3)](books/noncanonical/ascension-of-isaiah-ru-part-01.md)
+- [Ascension of Isaiah — source part 02 (внешний английский witness, главы 4–6)](books/noncanonical/ascension-of-isaiah-source-part-02.md)
+- [Ascension of Isaiah — часть 02 (гибридный русский черновик, главы 4–6)](books/noncanonical/ascension-of-isaiah-ru-part-02.md)
+- [Ascension of Isaiah — source part 03 (внешний английский witness, главы 7–8)](books/noncanonical/ascension-of-isaiah-source-part-03.md)
+- [Ascension of Isaiah — часть 03 (гибридный русский черновик, главы 7–8)](books/noncanonical/ascension-of-isaiah-ru-part-03.md)
+- [Ascension of Isaiah — source part 04 (внешний английский witness, главы 9–11)](books/noncanonical/ascension-of-isaiah-source-part-04.md)
+- [Ascension of Isaiah — часть 04 (гибридный русский черновик, главы 9–11)](books/noncanonical/ascension-of-isaiah-ru-part-04.md)
 
 ### Псалом 151
 

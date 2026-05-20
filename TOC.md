@@ -211,6 +211,10 @@
   - [часть 03 — гибридный черновик, главы 21–30](books/noncanonical/book-of-the-covenant-2-ru-part-03.md)
   - [часть 04 — гибридный черновик, главы 31–40](books/noncanonical/book-of-the-covenant-2-ru-part-04.md)
   - [часть 05 — гибридный черновик, главы 41–51](books/noncanonical/book-of-the-covenant-2-ru-part-05.md)
+- [Ascension of Isaiah — гибридный черновик, главы 1–3](books/noncanonical/ascension-of-isaiah-ru-part-01.md)
+  - [часть 02 — гибридный черновик, главы 4–6](books/noncanonical/ascension-of-isaiah-ru-part-02.md)
+  - [часть 03 — гибридный черновик, главы 7–8](books/noncanonical/ascension-of-isaiah-ru-part-03.md)
+  - [часть 04 — гибридный черновик, главы 9–11](books/noncanonical/ascension-of-isaiah-ru-part-04.md)
 - Апокалиптическая книга — стр. 1064
 - Откровение — стр. 1064
 - Енох I — стр. 1078
