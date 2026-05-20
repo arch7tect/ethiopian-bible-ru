@@ -189,6 +189,15 @@
 - [Числа — стр. 150–153](books/canonical/numbers-ru-part-08.md)
 - [Числа — стр. 154–156](books/canonical/numbers-ru-part-09.md)
 
+### Второзаконие
+
+- [Второзаконие — стр. 157–162](books/canonical/deuteronomy-ru-part-01.md)
+- [Второзаконие — стр. 163–168](books/canonical/deuteronomy-ru-part-02.md)
+- [Второзаконие — стр. 169–174](books/canonical/deuteronomy-ru-part-03.md)
+- [Второзаконие — стр. 175–180](books/canonical/deuteronomy-ru-part-04.md)
+- [Второзаконие — стр. 181–186](books/canonical/deuteronomy-ru-part-05.md)
+- [Второзаконие — стр. 187–188](books/canonical/deuteronomy-ru-part-06.md)
+
 ### Иов
 
 - [Иов — стр. 505–508](books/canonical/job-ru-part-01.md)
