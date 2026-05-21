@@ -232,6 +232,11 @@
 - [Притчи — стр. 582–587](books/canonical/proverbs-ru-part-01.md)
 - [Притчи — стр. 588–593](books/canonical/proverbs-ru-part-02.md)
 
+### Сусанна
+
+- [Сусанна — source part 01](books/noncanonical/susanna-source-part-01.md)
+- [Сусанна — стр. 803–804](books/noncanonical/susanna-ru-part-01.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
