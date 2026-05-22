@@ -143,7 +143,8 @@
   - [часть 03 — стр. 800–802](books/noncanonical/prayer-of-azariah-and-song-of-the-three-holy-children-ru-part-03.md)
 - [Сусанна — стр. 803](books/noncanonical/susanna-ru-part-01.md)
   - [часть 01 — стр. 803–804](books/noncanonical/susanna-ru-part-01.md)
-- Вил и Дракон — стр. 805
+- [Вил и Дракон — стр. 805](books/noncanonical/bel-and-the-dragon-ru-part-01.md)
+  - [часть 01 — стр. 805–806](books/noncanonical/bel-and-the-dragon-ru-part-01.md)
 - Малые пророки — стр. 806
 - Осия — стр. 806
 - Иоиль — стр. 813

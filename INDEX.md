@@ -237,6 +237,11 @@
 - [Сусанна — source part 01](books/noncanonical/susanna-source-part-01.md)
 - [Сусанна — стр. 803–804](books/noncanonical/susanna-ru-part-01.md)
 
+### Вил и Дракон
+
+- [Вил и Дракон — source part 01](books/noncanonical/bel-and-the-dragon-source-part-01.md)
+- [Вил и Дракон — стр. 805–806](books/noncanonical/bel-and-the-dragon-ru-part-01.md)
+
 ### Молитва Манассии
 
 - [Молитва Манассии — стр. 1270](books/noncanonical/prayer-of-manasses-ru-part-01.md)
